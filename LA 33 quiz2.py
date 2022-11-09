@@ -1,7 +1,7 @@
 # Quiz.py
 #
-# author: A. N. Other
-# date: September 2016
+# author: M.J.Stephenson
+# date: November 2022
 from datetime import datetime
 score = 0
 start_time = datetime.today()
